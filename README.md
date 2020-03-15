@@ -12,6 +12,7 @@ INFO: total of page: 2481078, total of articl page: 1093446; total of used artic
 python WikiExtractor.py -b 3500M -o extracted zhwiki-20200201-pages-articles-multistream.xml.bz2
 
 语料下载地址：
+
 https://dumps.wikimedia.org/zhwiki/
 
 
@@ -22,7 +23,9 @@ https://dumps.wikimedia.org/zhwiki/
 
 3、opencc繁简转换：
 
-https://github.com/yichen0831/opencc-python 代码下载下来之后执行安装命令：
+https://github.com/yichen0831/opencc-python 
+
+代码下载下来之后执行安装命令：
 
 python setup.py install
 
